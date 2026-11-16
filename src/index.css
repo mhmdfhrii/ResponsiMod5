@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+:root { padding-top: env(safe-area-inset-top, 0px); }
+body { background: #fff7ed; color: #292524; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
